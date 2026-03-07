@@ -3,7 +3,7 @@
 ## AgentScore
 ![Agent Score](assets/agentscore.jpeg)
 
-## 1. The problem your project addresses
+## 1. The problem **AgentScore** addresses
 
 **The problem we solve is simple but critical:**
 
@@ -16,7 +16,7 @@ If an agent takes payment and then delivers hallucinated, incorrect, or useless 
 Today, we have frictionless payments between agents.  
 We still don't have trust.
 
-## 2. How you've addressed the problem
+## 2. How **AgentScore** addresses the problem
 
 **We don’t hope for trust — we code it into the infrastructure.**
 
@@ -28,7 +28,7 @@ We built the complete **Agentic Stack** — four open standards working together
 
 The result? Agents become real economic actors — nano-companies with their own treasuries and verifiable track records. Money and accountability now move together.
 
-## 3. How you've used CRE
+## 3. How **AgentScore** uses CRE
 
 **We use Chainlink CRE as the trustless enforcement layer — the missing piece that turns payments into accountable transactions.**
 
