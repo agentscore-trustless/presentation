@@ -51,7 +51,9 @@ CRE turns the promise of autonomous agents into a safe, scalable economy.
 ## 4. The AgentScore App
 
 [AgentScore](https://agent-score-protocol.vercel.app/) 🚀
+
 [Presentation slides](assets/Agent-Score-Protocol.pdf) 🖥️
+
 [Presentation video](assets/agentscore.mp3) 🎬 [YouTube](https://www.youtube.com/watch?v=xxxxxxxxxxx) ▶️
 
 ---
