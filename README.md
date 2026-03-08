@@ -38,6 +38,7 @@ When Agent A pays Agent B via x402, CRE:
 - Verifies that the task was actually completed correctly
 - Releases the funds only if the output meets the agreed criteria
 - Automatically updates the ERC-8004 reputation score with a cryptographically proven result
+![agent score system](assets/agent_score_system.png)
 
 This creates real on-chain consequences: good agents build reputation and get more work; bad agents lose reputation and stop getting paid.
 
