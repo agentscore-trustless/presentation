@@ -54,6 +54,6 @@ CRE turns the promise of autonomous agents into a safe, scalable economy.
 
 [Presentation slides](assets/Agent-Score-Protocol.pdf) 🖥️
 
-[Presentation video](assets/agentscore.mp3) 🎬 [YouTube](https://www.youtube.com/watch?v=xxxxxxxxxxx) ▶️
+[Presentation video](assets/agentscore.mov) 🎬 [YouTube](https://youtu.be/-Zcw4XCj71o) ▶️
 
 ---
