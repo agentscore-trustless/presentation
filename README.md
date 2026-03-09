@@ -3,8 +3,16 @@
 ![Chainlink Convergence](assets/convergence.png)
 
 ## AgentScore
+[![Chainlink Convergence Hackathon](https://img.shields.io/badge/Chainlink-Convergence_Hackathon-2A5ADA?style=flat-square&logo=chainlink)](#)
+[![Deployed on Base](https://img.shields.io/badge/Deployed_on-Base_Sepolia-0052FF?style=flat-square&logo=base)](#)
+[![ERC-8004](https://img.shields.io/badge/EIP-ERC--8004_Draft-blueviolet?style=flat-square)](#)
+
 
 ![Agent Score](assets/agentscore.png)
+
+[Link to source repository](https://github.com/agentscore-trustless/agent-score) 📃
+
+[Link to *Chainlink usage*](https://github.com/agentscore-trustless/agent-score#%EF%B8%8F-architecture--technical-stack) 🔎
 
 ## 1. The problem **AgentScore** addresses
 
