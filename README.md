@@ -2,7 +2,8 @@
 
 ![Chainlink Convergence](assets/convergence.png)
 
-## AgentScore
+## AgentScore - :trophy: 3rd place
+[![3rd Place - Tenderly Track](https://img.shields.io/badge/🏆_Chainlink_Convergence-3rd_Place_Tenderly_Track-FFD700?style=for-the-badge)](https://www.youtube.com/watch?v=vwaUBcronEA&t=490s)
 [![Chainlink Convergence Hackathon](https://img.shields.io/badge/Chainlink-Convergence_Hackathon-2A5ADA?style=flat-square&logo=chainlink)](#)
 [![Deployed on Base](https://img.shields.io/badge/Deployed_on-Base_Sepolia-0052FF?style=flat-square&logo=base)](#)
 [![ERC-8004](https://img.shields.io/badge/EIP-ERC--8004_Draft-blueviolet?style=flat-square)](#)
@@ -63,5 +64,9 @@ CRE turns the promise of autonomous agents into a safe, scalable economy.
 [Presentation slides](assets/Agent-Score-Protocol.pdf) 🖥️
 
 [YouTube](https://youtu.be/-Zcw4XCj71o?si=4WBxlfYgGeUmWsfK) ▶️
+
+[Closing ceremony Tenderly track prizes](https://www.youtube.com/watch?v=vwaUBcronEA&t=490s) :trophy: 
+
+<img src="./assets/3rdplace.png" width="480" height="270" alt="Description">
 
 ---
